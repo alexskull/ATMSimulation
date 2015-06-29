@@ -1,0 +1,78 @@
+
+		*-*-*   Replicacion: 1   *-*-*
+
+				*-*-*   Dia: 1   *-*-*
+Numero de No Atendidos: 43
+Costo de Oportunidad por Clientes Perdidos: 86000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 97,5482 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 69,5888 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 47,1098 %
+
+				*-*-*   Dia: 2   *-*-*
+Numero de No Atendidos: 51
+Costo de Oportunidad por Clientes Perdidos: 102000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 97,4304 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 66,1271 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 34,2648 %
+
+				*-*-*   Dia: 3   *-*-*
+Numero de No Atendidos: 19
+Costo de Oportunidad por Clientes Perdidos: 38000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 93,3079 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 71,6678 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 43,0059 %
+
+				*-*-*   Dia: 4   *-*-*
+Numero de No Atendidos: 75
+Costo de Oportunidad por Clientes Perdidos: 150000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 99,3712 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 80,0819 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 34,8768 %
+
+				*-*-*   Dia: 5   *-*-*
+Numero de No Atendidos: 73
+Costo de Oportunidad por Clientes Perdidos: 146000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 97,2687 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 68,5019 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 39,1446 %
+
+				*-*-*   Dia: 6   *-*-*
+Numero de No Atendidos: 36
+Costo de Oportunidad por Clientes Perdidos: 72000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 93,4116 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 80,1492 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 41,9758 %
+
+				*-*-*   Dia: 7   *-*-*
+Numero de No Atendidos: 39
+Costo de Oportunidad por Clientes Perdidos: 78000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 96,9117 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 67,0372 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 31,4250 %
+
+				*-*-*   Dia: 8   *-*-*
+Numero de No Atendidos: 66
+Costo de Oportunidad por Clientes Perdidos: 132000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 96,0872 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 76,3880 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 37,8006 %
+
+				*-*-*   Dia: 9   *-*-*
+Numero de No Atendidos: 38
+Costo de Oportunidad por Clientes Perdidos: 76000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 97,3210 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 76,2002 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 43,6199 %
+
+				*-*-*   Dia: 10   *-*-*
+Numero de No Atendidos: 53
+Costo de Oportunidad por Clientes Perdidos: 106000
+Porcentaje del tiempo que estuvo ocupado el Servidor Alta Demanda 94,2574 %
+Porcentaje del tiempo que estuvo ocupado el Servidor Media Demanda 82,0604 %
+Porcentaje del tiempo que estuvo ocupado el Servidor baja Demanda 41,3692 %
+
+*-*   Promedios de Clientes Atendidos por Distribucion    *-*
+
+Numero promedio de Clientes atendidos en Alta Demanda 204,0000
+Numero promedio de Clientes atendidos en Media Demanda 179,0000
+Numero promedio de Clientes atendidos en baja Demanda 103,0000
